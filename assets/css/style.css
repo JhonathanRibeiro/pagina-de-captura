@@ -1,0 +1,49 @@
+body {
+    background: #00c9bf;
+}
+form {
+    background: white;
+    width: 357px;
+    height: 335px;
+    padding: 40px;
+    border-radius: 6px;
+    -webkit-box-shadow: -3px 4px 11px -5px rgba(8,8,8,1);
+    -moz-box-shadow: -3px 4px 11px -5px rgba(8,8,8,1);
+    box-shadow: -3px 4px 11px -5px rgba(8,8,8,1);
+}
+h1 {
+    font-size: 2.4rem;
+    font-weight: 645;
+    margin-top: 80px;
+    color: white;
+}
+p.pCad {
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+    color: white;
+}
+p.pPre {
+    font-size: 14px;
+    color: #8f948f;
+    font-weight: 450;
+}
+.imagem {
+    height: 501px;
+    width: 441px;
+    margin-top: 80px;
+}
+.form-control {
+    height: calc(1.5em + .45rem + 2px);
+}
+.btn-success {
+    color: #fff;
+    margin-top: 20px;
+    background-color: #28a745;
+    border-color: #28a745;
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    font-weight: 450;
+    font-size: 26px;
+    line-height: 4px;
+}
